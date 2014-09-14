@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\game.o
+./release\qipan.o
+./release\receivethread.o
+./release\webthing.o
+./release\ipdialog.o
+./release\qrc_cs.o
+./release\moc_game.o
+./release\moc_qipan.o
+./release\moc_receivethread.o
+./release\moc_webthing.o
+./release\moc_ipdialog.o
+);

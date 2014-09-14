@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.jpg</file>
+        <file>bijing.jpg</file>
+        <file>beijing.jpg</file>
+        <file>beijing1.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\game.o
+./debug\qipan.o
+./debug\receivethread.o
+./debug\webthing.o
+./debug\ipdialog.o
+./debug\qrc_cs.o
+./debug\moc_game.o
+./debug\moc_qipan.o
+./debug\moc_receivethread.o
+./debug\moc_webthing.o
+./debug\moc_ipdialog.o
+);
